@@ -1,0 +1,607 @@
+1659018236391	geckodriver	INFO	Listening on 127.0.0.1:50887
+1659018239423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileEPiV2D"
+1659018239928	Marionette	INFO	Marionette enabled
+1659018239939	Marionette	INFO	Listening on port 50898
+WebDriver BiDi listening on ws://localhost:50888
+Read port: 50898
+1659018240152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileEPiV2D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50888/devtools/browser/4ae8b4d0-2fd6-42b3-bd9f-3800d3871d5f
+1659018253004	Marionette	INFO	Stopped listening on port 50898
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659018253244	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659018425284	geckodriver	INFO	Listening on 127.0.0.1:50930
+1659018428320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilehiVhl8"
+1659018428812	Marionette	INFO	Marionette enabled
+1659018428819	Marionette	INFO	Listening on port 50942
+WebDriver BiDi listening on ws://localhost:50931
+Read port: 50942
+1659018429024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilehiVhl8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50931/devtools/browser/d884e8aa-f886-42ff-bc99-0f948a16081e
+1659018444423	Marionette	INFO	Stopped listening on port 50942
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659018444626	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659019584019	geckodriver	INFO	Listening on 127.0.0.1:53228
+1659019587082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile0JxR6l"
+1659019587596	Marionette	INFO	Marionette enabled
+1659019587605	Marionette	INFO	Listening on port 53239
+WebDriver BiDi listening on ws://localhost:53229
+Read port: 53239
+1659019587854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile0JxR6l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53229/devtools/browser/e4ed39bd-5092-474e-902e-954edfe37bfe
+1659019603448	Marionette	INFO	Stopped listening on port 53239
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659019603641	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659019668899	geckodriver	INFO	Listening on 127.0.0.1:53293
+1659019671943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileAACU6d"
+1659019672432	Marionette	INFO	Marionette enabled
+1659019672440	Marionette	INFO	Listening on port 53306
+WebDriver BiDi listening on ws://localhost:53294
+Read port: 53306
+1659019672628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileAACU6d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53294/devtools/browser/d18d7b88-8eca-4ae0-8912-a8e91ff3c3ed
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659019690752	Marionette	INFO	Stopped listening on port 53306
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659019690894	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659019699363	geckodriver	INFO	Listening on 127.0.0.1:53353
+1659019702390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileeIa2Cc"
+1659019702862	Marionette	INFO	Marionette enabled
+1659019702872	Marionette	INFO	Listening on port 53364
+WebDriver BiDi listening on ws://localhost:53354
+Read port: 53364
+1659019703061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileeIa2Cc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53354/devtools/browser/5cf4ac2c-844a-432a-9430-8fbfc65f6b9f
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659020126288	Marionette	INFO	Stopped listening on port 53364
+!!! error running onStopped callback: TypeError: callback is not a function
+9020104213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileJTwTDU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51541/devtools/browser/23f416db-d05f-4559-a48b-0fb112191f89
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659020118510	Marionette	INFO	Stopped listening on port 51551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659020118706	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659020127335	geckodriver	INFO	Listening on 127.0.0.1:51607
+1659020130397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileVtCGbM"
+1659020130892	Marionette	INFO	Marionette enabled
+1659020130901	Marionette	INFO	Listening on port 51618
+WebDriver BiDi listening on ws://localhost:51608
+Read port: 51618
+1659020131098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileVtCGbM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51608/devtools/browser/65e93a03-5dd0-46ba-944a-806cf858f406
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659020452190	Marionette	INFO	Stopped listening on port 51618
+p\\rust_mozprofilehm4BEp"
+1659020418845	Marionette	INFO	Marionette enabled
+1659020418852	Marionette	INFO	Listening on port 51703
+WebDriver BiDi listening on ws://localhost:51693
+Read port: 51703
+1659020419056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilehm4BEp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51693/devtools/browser/cbcc7b8e-5eac-478f-b93b-616758c6afd8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659020494608	Marionette	INFO	Stopped listening on port 51703
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659020494717	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659020503301	geckodriver	INFO	Listening on 127.0.0.1:64799
+1659020506349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileVcB8Ke"
+1659020506847	Marionette	INFO	Marionette enabled
+1659020506854	Marionette	INFO	Listening on port 64811
+WebDriver BiDi listening on ws://localhost:64800
+Read port: 64811
+1659020507024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileVcB8Ke\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64800/devtools/browser/49970562-157c-4405-a30b-7e678d3976d9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1659020613703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile9OzeZU"
+1659020614183	Marionette	INFO	Marionette enabled
+1659020614190	Marionette	INFO	Listening on port 64880
+WebDriver BiDi listening on ws://localhost:64870
+Read port: 64880
+1659020614375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile9OzeZU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64870/devtools/browser/5628a0b7-5ef9-4b5e-bc11-5086f9c3afd8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659021189771	Marionette	INFO	Stopped listening on port 64880
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659021189880	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+'t find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659020796551	Marionette	INFO	Stopped listening on port 64962
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659021190615	geckodriver	INFO	Listening on 127.0.0.1:53117
+1659021193655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilej61fmC"
+1659021194131	Marionette	INFO	Marionette enabled
+1659021194139	Marionette	INFO	Listening on port 53128
+WebDriver BiDi listening on ws://localhost:53118
+Read port: 53128
+1659021194326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilej61fmC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53118/devtools/browser/fa289731-0ae0-4f48-9890-2fa5eee27a97
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659021289615	Marionette	INFO	Stopped listening on port 53128
+1659021291963	geckodriver	INFO	Listening on 127.0.0.1:53186
+1659021295003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile4yp77k"
+1659021295499	Marionette	INFO	Marionette enabled
+1659021295506	Marionette	INFO	Listening on port 53197
+WebDriver BiDi listening on ws://localhost:53187
+Read port: 53197
+1659021295703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile4yp77k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53187/devtools/browser/7ea9c876-6137-4da0-b5b5-55fb784f6613
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659021354877	Marionette	INFO	Stopped listening on port 53197
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659021355022	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659021356007	geckodriver	INFO	Listening on 127.0.0.1:53262
+1659021359051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilemkX4ah"
+1659021359582	Marionette	INFO	Marionette enabled
+1659021359597	Marionette	INFO	Listening on port 53273
+WebDriver BiDi listening on ws://localhost:53263
+Read port: 53273
+1659021359831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilemkX4ah\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53263/devtools/browser/0854977e-106d-4193-93b5-556fea57d24b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659033445465	Marionette	INFO	Stopped listening on port 53273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659033445556	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+1659033451372	geckodriver	INFO	Listening on 127.0.0.1:49872
+1659033454405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileRHd8QM"
+1659033455108	Marionette	INFO	Marionette enabled
+1659033455117	Marionette	INFO	Listening on port 61222
+WebDriver BiDi listening on ws://localhost:49873
+Read port: 61222
+1659033455312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileRHd8QM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49873/devtools/browser/533ea63e-9f8d-4a1a-9fd3-b8973ee76e7d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659033699917	Marionette	INFO	Stopped listening on port 61222
+p\\rust_mozprofileRnPj57"
+1659033653656	Marionette	INFO	Marionette enabled
+1659033653663	Marionette	INFO	Listening on port 61561
+WebDriver BiDi listening on ws://localhost:61551
+Read port: 61561
+1659033653857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileRnPj57\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61551/devtools/browser/fe7962fc-87b4-41df-8ca4-9be37f3bcbdb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659033823485	Marionette	INFO	Stopped listening on port 61561
+!!! error running onStopped callback: TypeError: callback is not a function
+rofile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileCZTJae"
+1659033812058	Marionette	INFO	Marionette enabled
+1659033812065	Marionette	INFO	Listening on port 61831
+WebDriver BiDi listening on ws://localhost:61810
+Read port: 61831
+1659033812246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileCZTJae\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61810/devtools/browser/91279eab-57b4-44c9-8961-fa77f8a3dc2e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659033893925	Marionette	INFO	Stopped listening on port 61831
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659033894016	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+ory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659033952355	Marionette	INFO	Stopped listening on port 61973
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659033952464	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+'t find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659034017123	Marionette	INFO	Stopped listening on port 62111
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034017231	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+'t find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659034074578	Marionette	INFO	Stopped listening on port 62245
+!!! error running onStopped callback: TypeError: callback is not a function
+rofile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileVkmung"
+1659034048843	Marionette	INFO	Marionette enabled
+1659034048850	Marionette	INFO	Listening on port 62376
+WebDriver BiDi listening on ws://localhost:62366
+Read port: 62376
+1659034049048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileVkmung\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62366/devtools/browser/14ef6aa7-aa6c-4537-a21f-2001beae91bf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659034103301	Marionette	INFO	Stopped listening on port 62376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034103586	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659034107239	geckodriver	INFO	Listening on 127.0.0.1:62500
+1659034110271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilem33ACf"
+1659034110765	Marionette	INFO	Marionette enabled
+1659034110772	Marionette	INFO	Listening on port 62512
+WebDriver BiDi listening on ws://localhost:62501
+Read port: 62512
+1659034110965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilem33ACf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62501/devtools/browser/dc0fd695-bdd7-41c7-b0f3-33c07bf83562
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659034176005	Marionette	INFO	Stopped listening on port 62512
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034176086	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659034177393	geckodriver	INFO	Listening on 127.0.0.1:62659
+1659034180431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62660" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilezf3x05"
+1659034180906	Marionette	INFO	Marionette enabled
+1659034180913	Marionette	INFO	Listening on port 62670
+WebDriver BiDi listening on ws://localhost:62660
+Read port: 62670
+1659034181096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilezf3x05\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62660/devtools/browser/1a3d2873-1a9b-43bc-b431-e53b28b41457
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659034208421	Marionette	INFO	Stopped listening on port 62670
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034208674	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659034232018	geckodriver	INFO	Listening on 127.0.0.1:62778
+1659034235077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileg9CX92"
+1659034235548	Marionette	INFO	Marionette enabled
+1659034235555	Marionette	INFO	Listening on port 62800
+WebDriver BiDi listening on ws://localhost:62779
+Read port: 62800
+1659034235743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileg9CX92\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62779/devtools/browser/b6d1f52e-2a29-4a9b-9f55-ee68caa174b5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659034425658	Marionette	INFO	Stopped listening on port 62800
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileP6WwmO"
+1659034401974	Marionette	INFO	Marionette enabled
+1659034401984	Marionette	INFO	Listening on port 64898
+WebDriver BiDi listening on ws://localhost:64888
+Read port: 64898
+1659034402190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileP6WwmO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64888/devtools/browser/7fe30f7f-f366-4a4a-ac8c-90b086b098ca
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659034420802	Marionette	INFO	Stopped listening on port 64898
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034420941	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659034427605	geckodriver	INFO	Listening on 127.0.0.1:65002
+1659034430662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilekIewWn"
+1659034431162	Marionette	INFO	Marionette enabled
+1659034431173	Marionette	INFO	Listening on port 65014
+WebDriver BiDi listening on ws://localhost:65003
+Read port: 65014
+1659034431401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilekIewWn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65003/devtools/browser/0abd9431-d529-4b49-81e8-7838b8363a9c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659034463409	Marionette	INFO	Stopped listening on port 65014
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034463536	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659034465411	geckodriver	INFO	Listening on 127.0.0.1:65108
+1659034468455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileZprohm"
+1659034468935	Marionette	INFO	Marionette enabled
+1659034468942	Marionette	INFO	Listening on port 65120
+WebDriver BiDi listening on ws://localhost:65109
+Read port: 65120
+1659034469120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileZprohm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65109/devtools/browser/abc2a8e4-ff03-49ba-b76c-c429c03931eb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1659034478904	Marionette	INFO	Stopped listening on port 65120
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034479062	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659034501532	geckodriver	INFO	Listening on 127.0.0.1:65216
+1659034504557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileTzbUJd"
+1659034505035	Marionette	INFO	Marionette enabled
+1659034505043	Marionette	INFO	Listening on port 65227
+WebDriver BiDi listening on ws://localhost:65217
+Read port: 65227
+1659034505231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileTzbUJd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65217/devtools/browser/35852325-0c7b-4c97-b3ba-2c1f2c731beb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659034679119	Marionette	INFO	Stopped listening on port 65227
+[Parent 21696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659034686658	geckodriver	INFO	Listening on 127.0.0.1:65487
+1659034689685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileqyUxOg"
+1659034690198	Marionette	INFO	Marionette enabled
+1659034690206	Marionette	INFO	Listening on port 65509
+WebDriver BiDi listening on ws://localhost:65488
+Read port: 65509
+1659034690403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileqyUxOg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65488/devtools/browser/adcdc26f-4d47-467d-869b-064a5b2a5c7b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659034714452	Marionette	INFO	Stopped listening on port 65509
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034714596	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659034832387	geckodriver	INFO	Listening on 127.0.0.1:49349
+1659034835426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileuXJY9H"
+1659034835953	Marionette	INFO	Marionette enabled
+1659034835960	Marionette	INFO	Listening on port 49361
+WebDriver BiDi listening on ws://localhost:49350
+Read port: 49361
+1659034836158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileuXJY9H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49350/devtools/browser/f2db031d-2564-4579-a1cd-449bd7c69a2e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659034869815	Marionette	INFO	Stopped listening on port 49361
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659034869989	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659035010362	geckodriver	INFO	Listening on 127.0.0.1:51828
+1659035013390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileOXI9wu"
+1659035013916	Marionette	INFO	Marionette enabled
+1659035013923	Marionette	INFO	Listening on port 51850
+WebDriver BiDi listening on ws://localhost:51829
+Read port: 51850
+1659035014124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileOXI9wu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51829/devtools/browser/da4e78dd-f5bc-4dd5-a842-8192bf6317f1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659035033379	Marionette	INFO	Stopped listening on port 51850
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659035282688	geckodriver	INFO	Listening on 127.0.0.1:57307
+1659035285718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilex9C66F"
+1659035286269	Marionette	INFO	Marionette enabled
+1659035286279	Marionette	INFO	Listening on port 57318
+WebDriver BiDi listening on ws://localhost:57308
+Read port: 57318
+1659035286475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilex9C66F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57308/devtools/browser/b1b86d01-38ec-4554-9aca-cb5e46e25982
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659035604252	Marionette	INFO	Stopped listening on port 57318
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile7aqwPO"
+1659035476344	Marionette	INFO	Marionette enabled
+1659035476352	Marionette	INFO	Listening on port 57616
+WebDriver BiDi listening on ws://localhost:57606
+Read port: 57616
+1659035476575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofile7aqwPO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57606/devtools/browser/7d7d5ec6-c8e5-4fc8-88a6-367bbccc4b64
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659035486940	Marionette	INFO	Stopped listening on port 57616
+!!! error running onStopped callback: TypeError: callback is not a function
+1659040039323	geckodriver	INFO	Listening on 127.0.0.1:65110
+1659040042363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilebUp7po"
+1659040042874	Marionette	INFO	Marionette enabled
+1659040042883	Marionette	INFO	Listening on port 65123
+WebDriver BiDi listening on ws://localhost:65111
+Read port: 65123
+1659040043073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilebUp7po\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65111/devtools/browser/ebef1e79-1d5b-4ec1-b0ac-43974a2fa957
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659040057147	Marionette	INFO	Stopped listening on port 65123
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 25644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659040775780	geckodriver	INFO	Listening on 127.0.0.1:59657
+1659040778810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59658" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileV6bvBd"
+1659040779338	Marionette	INFO	Marionette enabled
+1659040779347	Marionette	INFO	Listening on port 59668
+WebDriver BiDi listening on ws://localhost:59658
+Read port: 59668
+1659040779570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileV6bvBd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59658/devtools/browser/997a296e-13a5-4f34-ad0f-d78ccca351a9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659040791870	Marionette	INFO	Stopped listening on port 59668
+!!! error running onStopped callback: TypeError: callback is not a function
+1659040815122	geckodriver	INFO	Listening on 127.0.0.1:59727
+1659040818164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilekylUAj"
+1659040818705	Marionette	INFO	Marionette enabled
+1659040818714	Marionette	INFO	Listening on port 59739
+WebDriver BiDi listening on ws://localhost:59728
+Read port: 59739
+1659040818974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofilekylUAj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59728/devtools/browser/103e1d72-bc8b-4095-ad91-866764e91fdd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659040830856	Marionette	INFO	Stopped listening on port 59739
+!!! error running onStopped callback: TypeError: callback is not a function
+1659054458400	geckodriver	INFO	Listening on 127.0.0.1:58974
+1659054461448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileHAWJ7v"
+1659054462266	Marionette	INFO	Marionette enabled
+1659054462276	Marionette	INFO	Listening on port 58996
+WebDriver BiDi listening on ws://localhost:58975
+Read port: 58996
+1659054462478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileHAWJ7v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58975/devtools/browser/8f955dc0-9854-45ef-82bb-673d17a006ef
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659054473727	Marionette	INFO	Stopped listening on port 58996
+!!! error running onStopped callback: TypeError: callback is not a function
+1659115518010	geckodriver	INFO	Listening on 127.0.0.1:54199
+1659115521071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileaKtEpv"
+1659115522010	Marionette	INFO	Marionette enabled
+1659115522019	Marionette	INFO	Listening on port 54210
+WebDriver BiDi listening on ws://localhost:54200
+Read port: 54210
+1659115522256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Arthur\\AppData\\Local\\Temp\\rust_mozprofileaKtEpv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54200/devtools/browser/c899497f-6f7b-4cbd-b561-33fcadaf6b48
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com.br"
+1659115534119	Marionette	INFO	Stopped listening on port 54210
